@@ -20,7 +20,7 @@
 # 5 - inicie novamente o postgresql
 # postgres -D SEU_DIR_QUE_MOSTRA_NO_FIND
 
-# createdb meu_banco
+# createdb apirest
 # psql
 # CREATE USER apirest_user WITH ENCRYPTED PASSWORD '12apirest123usertU';
 # grant all privileges on database apirest to apirest_user;
